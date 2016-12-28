@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Thinkspace v2
 
-You can use the [editor on GitHub](https://github.com/bealight/bealight.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Thinkspace** - a minimalist and white clean Jekyll theme designed for engineers to write their ranting and findings. It's best for personal blog or project blog use. Made with [Sass](https://github.com/sass/sass) which automates the compression of the compiled CSS code, and cool Jekyll layout by [Anatol Broder](http://jch.penibelst.de/) for compressing the HTML output code on-the-fly. Use typeface from [Inconsolata](https://fonts.google.com/specimen/Inconsolata) by Google Fonts and [Font Awesome](http://fontawesome.io/). [Disqus](https://disqus.com/) comment supported.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[**Live Demo**](http://heiswayi.github.io/thinkspace/)
 
-### Markdown
+### Screenshot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Screenshot](http://i.imgur.com/TgaRfrU.png)
 
-```markdown
-Syntax highlighted code block
+### License
 
-# Header 1
-## Header 2
-### Header 3
+[MIT](LICENSE.md)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bealight/bealight.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
